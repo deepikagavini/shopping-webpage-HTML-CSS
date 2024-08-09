@@ -1,0 +1,31 @@
+.product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color:rgb(169, 249, 252);
+}
+.product-item {
+    width: 45%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+   
+    background-color: aliceblue;
+    padding-bottom: 10px;
+   
+}
+.product-item img {
+    max-width: 100%;
+    height: auto;
+  
+}
+.product-item p {
+    font-size: 14px;
+    color: #666;
+  
+}
+h1{
+    text-align: center;
+}
